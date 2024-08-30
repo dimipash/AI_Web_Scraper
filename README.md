@@ -29,7 +29,7 @@ An intelligent web scraping tool that uses Streamlit, Selenium, and LangChain to
     - Follow the installation instructions for Ollama from the [official website](https://ollama.ai/).
     - Once installed, run the following command to download and start the required model:
         ```
-        ollama run llama2:3.1
+        ollama run llama3.1
         ```
 
 ## Usage
@@ -48,7 +48,3 @@ An intelligent web scraping tool that uses Streamlit, Selenium, and LangChain to
 ## Requirements
 
 See `requirements.txt` for a full list of dependencies.
-
-## License
-
-[MIT License](LICENSE)
